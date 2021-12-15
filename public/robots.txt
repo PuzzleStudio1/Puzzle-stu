@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /accessCheck/
+Disallow: /file/
+Sitemap: https://puzzle-stu.com/sitemap.xml

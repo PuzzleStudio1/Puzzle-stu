@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.puzzle_stu.twa",
+                   "sha256_cert_fingerprints": ["84:DD:40:88:F8:76:CB:C4:F6:47:51:D1:76:C0:4A:6E:07:B4:93:5A:C3:EE:B4:03:A6:9A:A0:41:1D:35:27:87"] }
+    }]

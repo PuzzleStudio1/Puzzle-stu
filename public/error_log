@@ -1,0 +1,228 @@
+[25-Nov-2020 17:59:44 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 17:59:44 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 17:59:44 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 17:59:44 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:05:28 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:05:28 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:05:28 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:05:28 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:05:28 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:05:28 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:05:28 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:05:28 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:13:51 Asia/Tehran] 836
+[25-Nov-2020 18:29:36 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:29:36 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:36:41 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:36:41 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:36:42 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:36:42 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:55:45 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:55:45 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:55:46 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 18:55:46 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:03:31 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:03:31 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:03:31 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:03:31 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:03:31 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:03:31 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:08:46 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:08:46 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:29:41 Asia/Tehran] PHP Warning:  Uncaught ErrorException: require(/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:75
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/p...', '/home/puzzlestu...', 75, Array)
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(75): require()
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(906): Illuminate\Foundation\Support\Providers\RouteServiceProvider->Illuminate\Foundation\Support\Providers\{closure}(Object(Illuminate\Foundation\Application))
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\F in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:29:41 Asia/Tehran] PHP Fatal error:  Illuminate\Foundation\Support\Providers\RouteServiceProvider::Illuminate\Foundation\Support\Providers\{closure}(): Failed opening required '/home/puzzlestu/laravel/bootstrap/cache/routes-v7.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 75
+[25-Nov-2020 19:38:02 Asia/Tehran] 836
+[25-Nov-2020 19:44:57 Asia/Tehran] 836
+[25-Nov-2020 19:45:28 Asia/Tehran] 836
+[25-Nov-2020 19:45:52 Asia/Tehran] 836
+[25-Nov-2020 19:52:46 Asia/Tehran] 836
+[25-Nov-2020 20:10:14 Asia/Tehran] 836
+[25-Nov-2020 20:10:29 Asia/Tehran] 836
+[25-Nov-2020 20:10:47 Asia/Tehran] 836
+[25-Nov-2020 20:46:55 Asia/Tehran] 836
+[25-Nov-2020 20:47:32 Asia/Tehran] 836
+[25-Nov-2020 20:48:03 Asia/Tehran] 836
+[25-Nov-2020 20:48:05 Asia/Tehran] 836
+[27-Nov-2020 12:49:22 Asia/Tehran] 847
+[27-Nov-2020 12:50:18 Asia/Tehran] 847
+[27-Nov-2020 15:48:35 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:40 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:41 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:40 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:43 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:39 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:45 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:46 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:48 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:43 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[27-Nov-2020 15:48:55 Asia/Tehran] PHP Notice:  PDO::__construct(): send of 162 bytes failed with errno=104 Connection reset by peer in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
+[28-Nov-2020 14:11:13 UTC] PHP Warning:  include(/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:13 UTC] PHP Warning:  include(): Failed opening '/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Applica in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[28-Nov-2020 17:41:13 Asia/Tehran] PHP Fatal error:  Uncaught ErrorException: include(/home/puzzlestu/laravel/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/composer/ClassLoader.php(444): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/p...', '/home/puzzlestu...', 444, Array)
+#1 /home/puzzlestu/laravel/vendor/composer/ClassLoader.php(444): include()
+#2 /home/puzzlestu/laravel/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/puzzlestu...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\ in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:13 UTC] PHP Warning:  include(/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:13 UTC] PHP Warning:  include(): Failed opening '/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Applica in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[28-Nov-2020 17:41:14 Asia/Tehran] PHP Fatal error:  Uncaught ErrorException: include(/home/puzzlestu/laravel/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/composer/ClassLoader.php(444): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/p...', '/home/puzzlestu...', 444, Array)
+#1 /home/puzzlestu/laravel/vendor/composer/ClassLoader.php(444): include()
+#2 /home/puzzlestu/laravel/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/puzzlestu...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\ in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:15 UTC] PHP Warning:  include(/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:15 UTC] PHP Warning:  include(): Failed opening '/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Applica in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[28-Nov-2020 14:11:15 UTC] PHP Warning:  include(/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:15 UTC] PHP Warning:  include(): Failed opening '/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Applica in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[28-Nov-2020 14:11:20 UTC] PHP Warning:  include(/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:20 UTC] PHP Warning:  include(): Failed opening '/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:20 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Applica in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[28-Nov-2020 14:11:21 UTC] PHP Warning:  include(/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:21 UTC] PHP Warning:  include(): Failed opening '/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Applica in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[28-Nov-2020 14:11:22 UTC] PHP Warning:  include(/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:22 UTC] PHP Warning:  include(): Failed opening '/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Applica in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[28-Nov-2020 14:11:23 UTC] PHP Warning:  include(/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:23 UTC] PHP Warning:  include(): Failed opening '/home/puzzlestu/laravel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/puzzlestu/laravel/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2020 14:11:23 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Applica in /home/puzzlestu/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811

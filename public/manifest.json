@@ -1,0 +1,51 @@
+{
+    "theme_color": "#3699ff",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "https://puzzle-stu.com",
+    "start_url": "https://puzzle-stu.com",
+    "app_name": "Puzzle Studio",
+    "short_name": "PuzzleStudio",
+    "dir": "rtl",
+    "lang": "fa",
+    "name": "پازل استودیو",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot1.webp",
+            "sizes": "1280x720",
+            "type": "image/webp"
+        }
+    ],
+    "categories": [
+        "education",
+        "utilities",
+        "books"
+    ]
+}
